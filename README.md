@@ -30,9 +30,9 @@ alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 ---
 ### 📊 Статистика:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Pepper&show_icons=true&theme=slateorange)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Pepper&theme=slateorange)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Pepper&show_icons=true&theme=slateorange)
 
 ---
 ### ✉️ Мои контакты:
