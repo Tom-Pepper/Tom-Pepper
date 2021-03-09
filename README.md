@@ -39,9 +39,11 @@ alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
 <p align="left">
  <a href="https://www.linkedin.com/in/artem88" target="_blank" rel="noopener noreferrer">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="36"
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn logo" height="36"
 style="vertical-align:top; margin:4px"></a>
  <a href="mailto:ya.dordz@yandex.ru"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
-alt="Python" height="36" style="vertical-align:top; margin:4px"></a>
-<span style="display: block;">Telegram: <span style="color: darkblue">@tompepper</span></span>
+alt="Gmail logo" height="36" style="vertical-align:top; margin:4px"></a>
+<a href="https://teleg.run/tompepper" target="_blank" rel="noopener noreferrer">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram logo" height="36"
+style="vertical-align:top; margin:4px"></a>
 </p>
