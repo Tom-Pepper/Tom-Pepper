@@ -1,49 +1,71 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+
 ## Привет, меня зовут Артём! 👋
-Я front-end разработчик. Люблю Реакт и удобные интерфейсы. Получаю эстетический экстаз
-от красивого кода 🖥️
+Я Front-end разработчик. Реакт и удобные легкие интерфейсы в моем сердечке.
+<br>Люблю много ходить пешком.
 
 [comment]: <> (- ❤️ Ищу работу разработчиком на React)
 [comment]: <> (- 🤓 Мне важно видеть результат работы и понимать, что он полезен и люди им пользуются)
 [comment]: <> (- 🤝 Импонирует Agile подход)
- 🐝 Fun fact: мои хобби — пчеловодство и настолки
 
 ---
-### 🧰 Языки и технологии:
+### 👅 Языки и технологии:
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+<ul style="list-style: none; display: flex; flex-wrap: wrap; margin: 0; padding: 0; gap: 1rem">
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+    alt="React" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    alt="HTML" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+    alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Git" height="40" style="vertical-align:top; margin:4px">
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
+    alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+  </li>
+</ul>
 
 ---
-### 📊 Статистика:
+### 📊 Статистика на GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Pepper&theme=slateorange)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Pepper&show_icons=true&theme=slateorange)
 
 ---
-### ✉️ Мои контакты:
+### ✉️ Связаться со мной:
 
-<p align="left">
- <a href="https://www.linkedin.com/in/artem88" target="_blank" rel="noopener noreferrer">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn logo" height="36"
-style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ya.dordz@yandex.ru"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
-alt="Gmail logo" height="36" style="vertical-align:top; margin:4px"></a>
-<a href="https://teleg.run/tompepper" target="_blank" rel="noopener noreferrer">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram logo" height="36"
-style="vertical-align:top; margin:4px"></a>
-</p>
+<ul style="margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 1rem;">
+  <li>
+    <a href="https://www.linkedin.com/in/artem88" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-linkedin-in" style="font-size: 30px;"></i>
+    </a>
+  </li>
+  <li>
+    <a href="mailto:ya.dordz@yandex.ru">
+      <i class="fa-solid fa-envelope-open-text contact-icon" style="font-size: 30px;"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://teleg.run/pepperbit" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-telegram contact-icon" style="font-size: 30px;"></i>
+    </a>
+  </li>
+</ul>
